@@ -15,10 +15,6 @@
 
 Élève ingénieur en 5<sup>e</sup> année à l'**ISEN Brest**, en alternance chez **IFREMER**. Je conçois des applis web, des outils pour la recherche scientifique et, dès que j'ai un moment, des jeux vidéo.
 
-- 🌊 **Chez IFREMER** : pipelines CI/CD pour publier notebooks et sites (Quarto, Jupyter Book), un chatbot qui interroge des données scientifiques (MCP, SPARQL), des API FastAPI
-- 🇮🇹 **En 2026** : stage de R&D à l'OGS de Trieste, pour automatiser un workbench d'océanographie avec Galaxy
-- ♟️ **En ce moment** : j'apprends à une IA à jouer aux échecs, niveau par niveau. Ce sera bientôt documenté sur [ma chaîne YouTube](https://www.youtube.com/@Cheun-i9l)
-
 ## 🕹️ Projets phares
 
 | | Projet | En bref | Stack |
